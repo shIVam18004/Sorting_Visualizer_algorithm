@@ -74,5 +74,5 @@ Follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
-   cd sorting-visualizer
+   git clone https://github.com/shIVam18004/Sorting_Visualizer_algorithm.git
+   cd Sorting_Visualizer_algorithm
