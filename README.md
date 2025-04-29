@@ -14,7 +14,9 @@ Just **run the Python script locally** to use the visualizer!
 
 ## 📸 Screenshots
 
-![Sorting Visualizer Screenshot](screenshot.png) <!-- (Optional: Replace with your own screenshot) -->
+![Sorting Visualizer Screenshot -1](https://github.com/shIVam18004/Sorting_Visualizer_algorithm/blob/main/sort_1.png
+)
+![Sorting Visualizer Screenshot-2](https://github.com/shIVam18004/Sorting_Visualizer_algorithm/blob/main/sort_2.png)<!-- (Optional: Replace with your own screenshot) -->
 
 ---
 
